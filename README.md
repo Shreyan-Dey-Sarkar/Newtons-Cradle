@@ -1,1 +1,1 @@
-# output link: https://shreyan-dey-sarkar.github.io/newtons-cradle/
+ output link: https://shreyan-dey-sarkar.github.io/newtons-cradle/
